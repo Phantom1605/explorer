@@ -1,9 +1,9 @@
 {
   "chain_name": "source",
-  "api": ["http://194.233.93.124:1317"],
-  "rpc": ["http://194.233.93.124:26657"],
+  "api": ["https://testnet.sourceprotocol.io:1317"],
+  "rpc": ["https://testnet.sourceprotocol.io:26657"],
   "snapshot_provider": "",
-  "sdk_version": "0.45.1",
+   "sdk_version": "0.44.4",
   "coin_type": "118",
   "min_tx_fee": "500",
   "assets": [
@@ -12,8 +12,8 @@
       "symbol": "SOURCE",
       "exponent": "6",
       "coingecko_id": "",
-      "logo": "https://raw.githubusercontent.com/AlexToTheSun/Validator_Activity/main/Testnet-guides/Source/PingPub/source.png"
+      "logo": "https://raw.github.com/Phantom1605/explorer-alex845/Alex-1/public/logos/source.png"
     }],
   "addr_prefix": "source",
-  "logo": "https://raw.githubusercontent.com/AlexToTheSun/Validator_Activity/main/Testnet-guides/Source/PingPub/source.png"
+  "logo": "https://raw.github.com/Phantom1605/explorer-alex845/Alex-1/public/logos/source.png"
 }
