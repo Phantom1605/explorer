@@ -1,0 +1,17 @@
+{
+"chain_name": "ollo",
+    "api": ["https://ollo-testnet.rpc.kjnodes.com/"], 
+    "rpc": ["https://ollo-testnet.rpc.kjnodes.com/"],
+    "sdk_version": "0.45.7",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "assets": [{
+        "base": "utollo",
+        "symbol": "OLLO",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": ""
+    }],
+    "addr_prefix": "ollo",
+    "logo": "https://raw.github.com/Phantom1605/explorer-alex845/Alex-1/public/logos/ollo.png"
+}
